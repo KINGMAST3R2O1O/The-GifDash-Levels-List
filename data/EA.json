@@ -1,0 +1,18 @@
+{
+    "id": "scratch.mit.edu/projects/1313260529",
+    "name": "Ephemeral Abyss",
+    "author": "GDAqua",
+    "creators": ["GDAqua", "MoseCoder"],
+    "verifier": "ShayK47",
+    "verification": "https://youtu.be/tvZEgNGRUUc?si=BY1nuzROnZtFl-j5",
+    "percentToQualify": "100",
+    "password": "Hitboxes",
+    "records": [
+         {
+            "user": "KINGMAST3R2O1O",
+            "link": "https://youtu.be/BkbU_QQ4jA4",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
